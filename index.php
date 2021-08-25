@@ -25,7 +25,7 @@ include 'config/data_register.php';
             <table id="dataregister" class="table table-striped table-bordered" style="width:100%">
                 <thead>
                     <tr>
-                        <th>Nama Lengkap</th>
+                        <th>Nama</th>
                         <th>Email</th>
                         <th>Username</th>
                         <th>Aksi</th>
