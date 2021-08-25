@@ -10,7 +10,7 @@ include 'config/data_register.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Widya Mayasari</title>
     <link rel="stylesheet" href="modul/bootstrap-4.3.1-dist/css/bootstrap.min.css">
     <script language="Javascript" src="modul/bootstrap-4.3.1-dist/js/bootstrap.min.js"> </script>
     <script src="modul/JQuery/jquery.min.js"></script>
